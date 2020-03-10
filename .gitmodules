@@ -1,0 +1,27 @@
+[submodule "OOPS20-rainfall"]
+	path = OOPS20-rainfall
+	url = https://github.com/mlcollard/OOPS20-rainfall
+[submodule "OOPS20-read"]
+	path = OOPS20-read
+	url = https://github.com/mlcollard/OOPS20-read
+[submodule "OOPS20-function"]
+	path = OOPS20-function
+	url = https://github.com/mlcollard/OOPS20-function
+[submodule "OOPS20-concerns"]
+	path = OOPS20-concerns
+	url = https://github.com/mlcollard/OOPS20-concerns
+[submodule "OOPS20-callbacks"]
+	path = OOPS20-callbacks
+	url = https://github.com/mlcollard/OOPS20-callbacks
+[submodule "OOPS20-iterator"]
+	path = OOPS20-iterator
+	url = https://github.com/mlcollard/OOPS20-iterator
+[submodule "OOPS20-WordInput"]
+	path = OOPS20-WordInput
+	url = https://github.com/mlcollard/OOPS20-WordInput
+[submodule "OOPS20-CSV"]
+	path = OOPS20-CSV
+	url = https://github.com/mlcollard/OOPS20-CSV
+[submodule "OOPS20-lambda"]
+	path = OOPS20-lambda
+	url = https://github.com/mlcollard/OOPS20-lambda
